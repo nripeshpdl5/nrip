@@ -1,0 +1,813 @@
+<div class="sec" align="center"></div>
+<h5></h5>
+<table id="calendartable">
+<tbody class="table-body">
+<tr bgcolor="#EDEDED">
+<td colspan="7">
+<div class="cal_warp">
+<div class="cal_left">
+<b>Jestha 2077,</b><em><strong>Apr/Jun 2020</strong></em></div>
+</div>
+<div class=" cal_warp" =""="">
+<div class="cal_center">
+<form style="display: inline-block;" title="Previous month" action="" method="post"><input class="cal_submit" type="submit" value="Baisakh"></form></div>
+<div class="cal_right1">
+<form style="display: =;" title="Next month" action="http://localhost:8888/Mysite/2020/05/16/233/" method="post"><input class="cal_submit" type="submit" value="Ashar"></form></div>
+</div></td>
+</tr>
+<tr bgcolor="#EDEDED">
+<td>
+<div class="day_np"><b>Sunday</b></div></td>
+<td>
+<div class="day_np"><b>Monday</b></div></td>
+<td>
+<div class="day_np"><b>Tuesday</b></div></td>
+<td>
+<div class="day_np"><b>Wednesday</b></div></td>
+<td>
+<div class="day_np"><b>Thursday</b></div></td>
+<td>
+<div class="day_np"><b>Friday</b></div></td>
+<td>
+<div class="day_np"><b>Saturday</b></div></td>
+</tr>
+<tr>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">32</div>
+<div class="rotate_right"></div>
+<div class="tithi">Nawami</div>
+<div class="date_en">14</div></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<div class="event_one">Jestha sankranti</div>
+<div class="rotate_left"></div>
+<div class="date_np">1</div>
+<div class="rotate_right"></div>
+<div class="tithi">Saptami</div>
+<div class="date_en">14</div></td>
+<td>
+<div class="event_one">Int. Family day</div>
+<div class="rotate_left"></div>
+<div class="date_np">2</div>
+<div class="rotate_right"></div>
+<div class="tithi">Astami</div>
+<div class="date_en">15</div></td>
+<td style="color: #ff4d00;" bgcolor="#D5D5D5">
+<div class="event_one">Madan Ashrit smriti diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">3</div>
+<div class="rotate_right"></div>
+<div class="tithi">Nawami</div>
+<div class="date_en">16</div></td>
+</tr>
+<tr>
+<td>
+<div class="event_one">World Information Society Day</div>
+<div class="rotate_left">World high blood pressure day</div>
+<div class="date_np">4</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dashami</div>
+<div class="date_en">17</div></td>
+<td>
+<div class="event_one">Kurma jayanti</div>
+<div class="rotate_left"></div>
+<div class="date_np">5</div>
+<div class="rotate_right"></div>
+<div class="tithi">Ekadashi</div>
+<div class="date_en">18</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">6</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dwadashi</div>
+<div class="date_en">19</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">7</div>
+<div class="rotate_right"></div>
+<div class="tithi">Trayodashi</div>
+<div class="date_en">20</div></td>
+<td>
+<div class="event_one">Sithichaye Puja</div>
+<div class="rotate_left"></div>
+<div class="date_np">8</div>
+<div class="rotate_right"></div>
+<div class="tithi">Chaturdashi</div>
+<div class="date_en">21</div></td>
+<td>
+<div class="event_one">Biologial Diversity Day</div>
+<div class="rotate_left"></div>
+<div class="date_np">9</div>
+<div class="rotate_right"></div>
+<div class="tithi">Aaunsi</div>
+<div class="date_en">22</div></td>
+<td style="color: #ff4d00;">
+<div class="event_one">Gosaikunda snan arambha</div>
+<div class="rotate_left"></div>
+<div class="date_np">10</div>
+<div class="rotate_right"></div>
+<div class="tithi">Pratipada</div>
+<div class="date_en">23</div></td>
+</tr>
+<tr>
+<td width="50">
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">11</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dwitiya</div>
+<div class="date_en">24</div></td>
+<td width="80">
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">12</div>
+<div class="rotate_right"></div>
+<div class="tithi">Tritiya</div>
+<div class="date_en">25</div></td>
+<td width="80">
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">13</div>
+<div class="rotate_right"></div>
+<div class="tithi">Chaturthi</div>
+<div class="date_en">26</div></td>
+<td width="80">
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">14</div>
+<div class="rotate_right"></div>
+<div class="tithi">Panchami</div>
+<div class="date_en">27</div></td>
+<td width="80">
+<div class="event_one">Ganatantra Diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">15</div>
+<div class="rotate_right"></div>
+<div class="tithi">Sasthi</div>
+<div class="date_en">28</div></td>
+<td width="80">
+<div class="event_one">Shanti Sena Diwas</div>
+<div class="rotate_left">World Mt.Everest day</div>
+<div class="date_np">16</div>
+<div class="rotate_right"></div>
+<div class="tithi">Saptami</div>
+<div class="date_en">29</div></td>
+<td style="color: #ff4d00;" width="80">
+<div class="event_one">Bayue astamai</div>
+<div class="rotate_left"></div>
+<div class="date_np">17</div>
+<div class="rotate_right"></div>
+<div class="tithi">Astami</div>
+<div class="date_en">30</div></td>
+</tr>
+<tr>
+<td>
+<div class="event_one">World dhumrapan rahit diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">18</div>
+<div class="rotate_right"></div>
+<div class="tithi">Nawami</div>
+<div class="date_en">31</div></td>
+<td>
+<div class="event_one">Baan upabhokta diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">19</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dashami</div>
+<div class="date_en">1</div></td>
+<td>
+<div class="event_one">Nirjala Ekadashi Brata</div>
+<div class="rotate_left"></div>
+<div class="date_np">20</div>
+<div class="rotate_right"></div>
+<div class="tithi">Ekadashi</div>
+<div class="date_en">2</div></td>
+<td>
+<div class="event_one">Jatiya bhedbhab tatha chuwachut unmulan diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">21</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dwadashi</div>
+<div class="date_en">3</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">22</div>
+<div class="rotate_right"></div>
+<div class="tithi">Trayodashi</div>
+<div class="date_en">4</div></td>
+<td>
+<div class="event_one">World Environment Day</div>
+<div class="rotate_left"></div>
+<div class="date_np">23</div>
+<div class="rotate_right"></div>
+<div class="tithi">Purnima</div>
+<div class="date_en">5</div></td>
+<td style="color: #ff4d00;">
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">24</div>
+<div class="rotate_right"></div>
+<div class="tithi">Pratipada</div>
+<div class="date_en">6</div></td>
+</tr>
+<tr>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">25</div>
+<div class="rotate_right"></div>
+<div class="tithi">Dwitiya</div>
+<div class="date_en">7</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">26</div>
+<div class="rotate_right"></div>
+<div class="tithi">Tritiya</div>
+<div class="date_en">8</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">27</div>
+<div class="rotate_right"></div>
+<div class="tithi">Chaturthi</div>
+<div class="date_en">9</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">28</div>
+<div class="rotate_right"></div>
+<div class="tithi">Panchami</div>
+<div class="date_en">10</div></td>
+<td>
+<div class="event_one"></div>
+<div class="rotate_left"></div>
+<div class="date_np">29</div>
+<div class="rotate_right"></div>
+<div class="tithi">Sasthi</div>
+<div class="date_en">11</div></td>
+<td>
+<div class="event_one">Balshram biruddha diwas</div>
+<div class="rotate_left"></div>
+<div class="date_np">30</div>
+<div class="rotate_right"></div>
+<div class="tithi">Saptami</div>
+<div class="date_en">12</div></td>
+<td style="color: #ff4d00;">
+<div class="event_one">Devpatanma Trishulyatra</div>
+<div class="rotate_left"></div>
+<div class="date_np">31</div>
+<div class="rotate_right"></div>
+<div class="tithi">Astami</div>
+<div class="date_en">13</div></td>
+</tr>
+</tbody>
+</table>
+/*CSS*/
+element.style {
+}
+.rotate_left {
+    -webkit-transform: rotate(-90deg);
+    -webkit-transform-origin: left top;
+    -moz-transform: rotate(-90deg);
+    -moz-transform-origin: left top;
+    -ms-transform: rotate(-90deg);
+    -ms-transform-origin: left top;
+    -o-transform: rotate(-90deg);
+    -o-transform-origin: left top;
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    position: relative;
+    top: 73px;
+    font-size: 11px;
+    text-align: center;
+    width: 80px;
+    height: 15px;
+}
+
+element.style {
+}
+.fb_reset {
+    background: none;
+    border: 0;
+    border-spacing: 0;
+    color: #000;
+    cursor: auto;
+    direction: ltr;
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+}
+element.style {
+}
+table#calendartable {
+background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/133/727/original/WoodBackground54342.jpg);
+    border: solid #d5d5d5 2px;
+    width: 10%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+element.style {
+}
+.event_one {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+    height: 45px;
+}
+element.style {
+}
+
+element.style {
+}
+.tithi {
+    color: #333;
+    font-size: 12px;
+    float: left;
+    padding-left: 8px;
+}
+element.style {
+}
+.date_np {
+    font-size: 25px;
+    padding: 3px 0;
+    text-align: center;
+    text-shadow: 1px 1px #e1e1e1;
+    font-weight: 600;
+}
+
+table#calendartable {
+    background-color: #f8f8f8;
+    color: #333;
+    border: solid #d5d5d5 2px;
+    width: 50%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+.content {
+    width: 25%;
+    font-size: 1.2em;
+    float: right;
+    background-color: #99c75a;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: justify;
+    box-shadow: 0 -5px 5px #595959;
+    -webkit-box-shadow: 0 -5px 5px #595959;
+}
+body {
+    background-image: url(https://paulryan.com.au/wp-content/uploads/2015/01/high-resolution-wallpapers-25.jpg);
+
+    color: #000305;
+    font-size: 87.5%;
+    font-family: Baskerville,palatino linotype,Palatino,century schoolbook l,times new roman,serif;
+    line-height: 1.429;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-style: normal;
+    font-weight: 400;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 5 5 1px rgba(255,255,255,.5);
+}
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+}
+element.style {
+}
+
+element.style {
+}
+.cal_warp {
+    height: 20px;
+    text-align: center;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+.cal_span {
+  background: rgb(230,157,231);
+  border-radius: 50% 0%;
+  box-shadow: 0 0 6px rgb(41,185,82), 0 0 3px beige inset;
+  padding: .1em 5em;
+ background-clip: content-box;
+}
+.cal_left {
+    float: center;
+    font-weight: 60;
+    font-size: 20px;
+    color: #333;
+    text-shadow: 1px 1px #aaa;
+    padding-left: 5px;
+    height: 20px;
+    line-height: 20px;
+}
+.cal_center {
+    float: left;
+    font-weight: 20;
+    border-radius: 5px;
+    margin-top: 1px;
+    border: 1px solid #b3b3b3;
+    padding: 0 20px;
+    font-size: 20px;
+    text-shadow: 5px 5px #333;
+    box-shadow: 3px 3px 3px #acacac;
+    color: #000080;
+    display: inline-block;
+    line-height:30px
+    box-decoration-break: clone;
+}
+.cal_right1 {
+line-height:30px;
+   float: right;
+   font-weight: 60;
+    border-radius: 5px;
+    margin-top: 1px;
+    border: 1px solid #b3b3b3;
+    padding: 0 20px;
+    font-size: 20px;
+    text-shadow: 5px 5px #333;
+    box-shadow: 3px 3px 3px #acacac;
+    color: #000080;
+    display: inline-block;
+}
+
+element.style {
+}
+.cal_submit {
+    background: 0 0!important;
+    border: none;
+    padding: 0!important;
+    font-size: 10px;
+    font-weight: 60;
+    color: #0094df ! important;
+    cursor: pointer;
+}
+element.style {
+}
+input[type="submit" i] {
+    -webkit-appearance: push-button;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 1px 7px 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-image: initial;
+}
+element.style {
+}
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark-color(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: -internal-light-dark-color(white, black);
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 40 45px system-ui;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+
+element.style {
+}
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+element.style {
+}
+.rotate_left {
+    -webkit-transform: rotate(-90deg);
+    -webkit-transform-origin: left top;
+    -moz-transform: rotate(-90deg);
+    -moz-transform-origin: left top;
+    -ms-transform: rotate(-90deg);
+    -ms-transform-origin: left top;
+    -o-transform: rotate(-90deg);
+    -o-transform-origin: left top;
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    position: relative;
+    top: 73px;
+    font-size: 11px;
+    text-align: center;
+    width: 80px;
+    height: 15px;
+}
+
+element.style {
+}
+.fb_reset {
+    background: none;
+    border: 0;
+    border-spacing: 0;
+    color: #000;
+    cursor: auto;
+    direction: ltr;
+    font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    margin: 0;
+    overflow: visible;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: none;
+    text-transform: none;
+    visibility: visible;
+    white-space: normal;
+    word-spacing: normal;
+}
+element.style {
+}
+table#calendartable {
+background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/133/727/original/WoodBackground54342.jpg);
+    border: solid #d5d5d5 2px;
+    width: 10%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+element.style {
+}
+.event_one {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+    height: 45px;
+}
+element.style {
+}
+.sec {
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+element.style {
+}
+.tithi {
+    color: #333;
+    font-size: 12px;
+    float: left;
+    padding-left: 8px;
+}
+element.style {
+}
+.date_np {
+    font-size: 25px;
+    padding: 3px 0;
+    text-align: center;
+    text-shadow: 1px 1px #e1e1e1;
+    font-weight: 600;
+}
+
+table#calendartable {
+    color: #333;
+    border: solid #d5d5d5 2px;
+    width: 50%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+.content {
+    width: 25%;
+    font-size: 1.2em;
+    float: right;
+    background-color: #99c75a;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: justify;
+    box-shadow: 0 -5px 5px #595959;
+    -webkit-box-shadow: 0 -5px 5px #595959;
+}
+body {
+    
+ background-image: url(https://paulryan.com.au/wp-content/uploads/2015/01/high-resolution-wallpapers-25.jpg);
+    color: #000305;
+    font-size: 87.5%;
+    font-family: Baskerville,palatino linotype,Palatino,century schoolbook l,times new roman,serif;
+    line-height: 1.429;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-style: normal;
+    font-weight: 400;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5);
+    -webkit-box-shadow: 5 5 1px rgba(255,255,255,.5);
+}
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+}
+element.style {
+}
+
+element.style {
+}
+.cal_warp {
+    height: 20px;
+    text-align: center;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+.cal_span {
+  background: rgb(230,157,231);
+  border-radius: 50% 0%;
+  box-shadow: 0 0 6px rgb(41,185,82), 0 0 3px beige inset;
+  padding: .1em 5em;
+ background-clip: content-box;
+}
+.cal_left {
+    float: center;
+    font-weight: 60;
+    font-size: 20px;
+    color: #333;
+    text-shadow: 1px 1px #aaa;
+    padding-left: 5px;
+    height: 20px;
+    line-height: 20px;
+}
+.cal_center {
+    float: left;
+    font-weight: 20;
+    border-radius: 5px;
+    margin-top: 1px;
+    border: 1px solid #b3b3b3;
+    padding: 0 20px;
+    font-size: 20px;
+    text-shadow: 5px 5px #333;
+    box-shadow: 3px 3px 3px #acacac;
+    color: #000080;
+    display: inline-block;
+    line-height:30px
+    box-decoration-break: clone;
+}
+.cal_right1 {
+line-height:30px;
+   float: right;
+   font-weight: 60;
+    border-radius: 5px;
+    margin-top: 1px;
+    border: 1px solid #b3b3b3;
+    padding: 0 20px;
+    font-size: 20px;
+    text-shadow: 5px 5px #333;
+    box-shadow: 3px 3px 3px #acacac;
+    color: #000080;
+    display: inline-block;
+}
+
+element.style {
+}
+.cal_submit {
+    background: 0 0!important;
+    border: none;
+    padding: 0!important;
+    font-size: 10px;
+    font-weight: 60;
+    color: #0094df ! important;
+    cursor: pointer;
+}
+element.style {
+}
+input[type="submit" i] {
+    -webkit-appearance: push-button;
+    user-select: none;
+    white-space: pre;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 1px 7px 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-image: initial;
+}
+element.style {
+}
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark-color(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: -internal-light-dark-color(white, black);
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 40 45px system-ui;
+    padding: 1px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+
+element.style {
+}
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+}
+td {
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/133/727/original/WoodBackground54342.jpg); 
+display: table-cell;
+    vertical-align: inherit;
+}
+
+td:hover{
+    background: linear-gradient(-45deg,#D3D3D3,#A9A9A9, #F0FFFF, #FFE4E1);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
